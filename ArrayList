@@ -6,7 +6,7 @@ public class ArrayListExample {
        *elements so I made it of string type */
 	  ArrayList<String> obj = new ArrayList<String>();
 
-	  /*This is how elements should be added to the array list*/
+	  /*This is how elements should be added to the array list*////////////////////////////////////////////////
 	  obj.add("Ajeet");
 	  obj.add("Harry");
 	  obj.add("Chaitanya");
